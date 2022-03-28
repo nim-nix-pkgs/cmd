@@ -11,7 +11,6 @@
   inputs.src-cmd-master.ref   = "refs/heads/master";
   inputs.src-cmd-master.owner = "samdmarshall";
   inputs.src-cmd-master.repo  = "cmd.nim";
-  inputs.src-cmd-master.dir   = "";
   inputs.src-cmd-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
