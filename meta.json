@@ -7,7 +7,7 @@
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/cmd.nim",
   "refs": [
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/samdmarshall/cmd.nim/': Failed to connect to github.com port 443 after 128648 ms: Connection timed out",
     ""
   ],
   "heads": []
