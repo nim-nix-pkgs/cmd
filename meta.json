@@ -7,39 +7,8 @@
   "license": "BSD 3-Clause",
   "web": "https://github.com/samdmarshall/cmd.nim",
   "refs": [
-    "refs/heads/master",
+    "fatal: expected flush after ref listing",
     ""
   ],
-  "heads": [
-    {
-      "name": "cmd",
-      "version": "0.2.0",
-      "author": "Samantha Marshall",
-      "desc": "interactive command prompt",
-      "license": "BSD 3-Clause",
-      "skipDirs": [
-        "tests"
-      ],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.16.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.16.0"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
